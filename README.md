@@ -25,7 +25,7 @@ Here's a walkthrough of implemented features:
 <img src='helloWorldWalkthrough.gif' title='Hello World Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
-GIF created with <a href="https://github.com/phw/peek">Peek GIF recorder</a>
+GIF created with Android Studio Screen Recorder
 <!-- Recommended tools:
 [Kap](https://getkap.co/) for macOS
 [ScreenToGif](https://www.screentogif.com/) for Windows
@@ -35,6 +35,7 @@ GIF created with <a href="https://github.com/phw/peek">Peek GIF recorder</a>
 
 Describe any challenges encountered while building the app.
 * Understanding how constraints for the components worked
+* Getting screen recorder to work for GIF video walkthrough
 
 ## License
 
