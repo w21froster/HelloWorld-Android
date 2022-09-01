@@ -22,7 +22,7 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-<img src='helloWorldWalkthrough.gif' title='Hello World Walkthrough' width='' alt='Video Walkthrough' />
+<img src='helloWorldWalkthrough.gif' title='Hello World Walkthrough' width='40%' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with Android Studio Screen Recorder
